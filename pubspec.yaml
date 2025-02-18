@@ -3,6 +3,7 @@ description: A plugin for barcode scanning support on Android and iOS. Supports 
 version: 2.0.0
 author: Amol Gangadhare <amol.gangadhare@gmail.com>
 homepage: https://github.com/AmolGangadhare/flutter_barcode_scanner
+#hello
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
